@@ -1,11 +1,11 @@
-                                                                         # The-RRS
-
-                                                                  UMD Info Challenge 2025
-                                                                          Abstract
+# UMD Info Challenge 2025: The RRS Abstract
 
 Team: IC25079
+
 Team Members: Diana Del Cid, Kavya Ganesan
+
 Prompt: Amtrak Records Retention Schedule (Design)
+
 
  Amtrak’s current Records Retention Schedule is a 75-page PDF that outlines record-keeping policies but lacks an intuitive system for organization, searchability, and management. To improve efficiency and accessibility, we designed a more user-friendly system tailored to Amtrak’s needs. Our approach began with a critical analysis of the existing document, identifying key issues such as missing values, slow retrieval times for users, and a lack of structured update processes. Rather than converting the PDF into a simple spreadsheet, we opted for the concept of a dynamic system which would provide users access to the information while maintaining administrative control over updates and other factors in the hands of management.
 
