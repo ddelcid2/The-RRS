@@ -1,4 +1,4 @@
-# UMD Info Challenge 2025: The RRS Abstract
+# UMD Info Challenge 2025: The RRS
 
 Team: IC25079
 
